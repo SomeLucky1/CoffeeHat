@@ -28,9 +28,10 @@ I2C port on PB6(I2C1_SCL)/PB7(I2C1_SDA)
 J27 - USART1 (PA9/10) with NRST and BOOT1
 ```
 
-![GaggiaBoard_V3_s1](https://github.com/banoz/CoffeeHat/blob/main/Hardware/GaggiaBoard_V3/EAGLE/Exports/GaggiaBoard_V3_s1.png)
-![GaggiaBoard_V3_s2](https://github.com/banoz/CoffeeHat/blob/main/Hardware/GaggiaBoard_V3/EAGLE/Exports/GaggiaBoard_V3_s2.png)
+![GaggiaBoard_V3_s1](/Hardware/GaggiaBoard_V3/KiCad/Exports/GaggiaBoard_V3-GaggiaBoard_V3_1.svg)
+![GaggiaBoard_V3_s2](/Hardware/GaggiaBoard_V3/KiCad/Exports/GaggiaBoard_V3-GaggiaBoard_V3_2.svg)
 
 Top|Bottom
 ---|---
-![GaggiaBoard_V3_top](https://github.com/banoz/CoffeeHat/blob/main/Hardware/GaggiaBoard_V3/EAGLE/Exports/GaggiaBoard_V3_top.png)|![GaggiaBoard_V3_top](https://github.com/banoz/CoffeeHat/blob/main/Hardware/GaggiaBoard_V3/EAGLE/Exports/GaggiaBoard_V3_bottom.png)
+![GaggiaBoard_V3_top](/Hardware/GaggiaBoard_V3/KiCad/Exports/GaggiaBoard_V3_top.png)|![GaggiaBoard_V3_top](/Hardware/GaggiaBoard_V3/KiCad/Exports/GaggiaBoard_V3_bottom.png)
+![GaggiaBoard_V3_top_pop](/Hardware/GaggiaBoard_V3/KiCad/Exports/GaggiaBoard_V3_top_pop.png)|![GaggiaBoard_V3_bottom](/Hardware/GaggiaBoard_V3/KiCad/Exports/GaggiaBoard_V3_bottom_pop.png)

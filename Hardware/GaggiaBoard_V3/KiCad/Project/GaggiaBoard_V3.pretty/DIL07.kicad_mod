@@ -1,0 +1,105 @@
+(footprint "DIL07" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "<b>DIL07</b> NAiS<p>\nSource: http://www.mew-europe.com/..  en_ds_61613_0000.pdf")
+  (attr through_hole)
+  (fp_text reference "REF**" (at -6.1864 3.175 90) (layer "F.SilkS")
+      (effects (font (size 1.2573 1.2573) (thickness 0.1397)) (justify left bottom))
+    (tstamp a24b2d2a-e083-452d-8cc6-c346a72f542e)
+  )
+  (fp_text value "DIL07" (at 7.5326 3.175 90) (layer "F.Fab")
+      (effects (font (size 1.2573 1.2573) (thickness 0.1397)) (justify left bottom))
+    (tstamp e65aa125-2098-4b31-9b36-7ea601f5f584)
+  )
+  (fp_line (start -4.83 -3.144) (end -4.83 3.144)
+    (stroke (width 0.1524) (type solid)) (layer "F.SilkS") (tstamp 0314e116-1b14-478e-9fe0-351d821ae811))
+  (fp_line (start -4.83 3.144) (end 4.83 3.144)
+    (stroke (width 0.1524) (type solid)) (layer "F.SilkS") (tstamp 8f1bdb5c-cc44-42a0-9f60-8656457520a5))
+  (fp_line (start 4.83 -3.144) (end -4.83 -3.144)
+    (stroke (width 0.1524) (type solid)) (layer "F.SilkS") (tstamp 1d5c2d6a-f940-4cd7-b871-e8f99caa40a1))
+  (fp_line (start 4.83 3.144) (end 4.83 -3.144)
+    (stroke (width 0.1524) (type solid)) (layer "F.SilkS") (tstamp 3cb441e0-7d75-4516-81ad-b1e4955aa57b))
+  (fp_circle (center -3.84 1.8) (end -3.54 1.8)
+    (stroke (width 0.6) (type solid)) (fill solid) (layer "F.SilkS") (tstamp f119dbd7-496c-41a8-8fae-8ac5fe2d2ad2))
+  (fp_poly
+    (pts
+      (xy -4.191 -3.175)
+      (xy -3.429 -3.175)
+      (xy -3.429 -3.81)
+      (xy -4.191 -3.81)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 57af2360-4366-4047-bab5-5cf5cfd1a5fb))
+  (fp_poly
+    (pts
+      (xy -4.191 3.81)
+      (xy -3.429 3.81)
+      (xy -3.429 3.175)
+      (xy -4.191 3.175)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 5e1df5cd-76c8-44df-be83-f2418185e460))
+  (fp_poly
+    (pts
+      (xy -1.651 3.81)
+      (xy -0.889 3.81)
+      (xy -0.889 3.175)
+      (xy -1.651 3.175)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 5a3765f5-c971-49ba-b4ff-3c9548132201))
+  (fp_poly
+    (pts
+      (xy 0.889 -3.175)
+      (xy 1.651 -3.175)
+      (xy 1.651 -3.81)
+      (xy 0.889 -3.81)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 34832db6-9229-43c0-83f1-8d5227ea0ff0))
+  (fp_poly
+    (pts
+      (xy 0.889 3.81)
+      (xy 1.651 3.81)
+      (xy 1.651 3.175)
+      (xy 0.889 3.175)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 440b73f9-df58-4801-8db7-0871f596b433))
+  (fp_poly
+    (pts
+      (xy 3.429 -3.175)
+      (xy 4.191 -3.175)
+      (xy 4.191 -3.81)
+      (xy 3.429 -3.81)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 2eedeb52-8ef8-4120-af70-371adc7ef62e))
+  (fp_poly
+    (pts
+      (xy 3.429 3.81)
+      (xy 4.191 3.81)
+      (xy 4.191 3.175)
+      (xy 3.429 3.175)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 76040a70-75ef-4b46-8c7a-0116c2f96722))
+  (pad "1" thru_hole oval (at -3.81 3.81 90) (size 2.616 1.308) (drill 0.8) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.1016) (thermal_bridge_angle 45) (tstamp fd8aefe7-dd95-4df3-b39e-29e9e3a80a56))
+  (pad "2" thru_hole oval (at -1.27 3.81 90) (size 2.616 1.308) (drill 0.8) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.1016) (thermal_bridge_angle 45) (tstamp d5be337a-c321-4917-bd2e-d7cf78986b89))
+  (pad "3" thru_hole oval (at 1.27 3.81 90) (size 2.616 1.308) (drill 0.8) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.1016) (thermal_bridge_angle 45) (tstamp c28ec60a-da58-4f94-a01d-496d07e3e408))
+  (pad "4" thru_hole oval (at 3.81 3.81 90) (size 2.616 1.308) (drill 0.8) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.1016) (thermal_bridge_angle 45) (tstamp 5cc5dd78-5e25-430f-b8eb-e14cb25d709f))
+  (pad "5" thru_hole oval (at 3.81 -3.81 90) (size 2.616 1.308) (drill 0.8) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.1016) (thermal_bridge_angle 45) (tstamp 64ab5dec-04dc-4831-b356-9cd4d6e59cdc))
+  (pad "6" thru_hole oval (at 1.27 -3.81 90) (size 2.616 1.308) (drill 0.8) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.1016) (thermal_bridge_angle 45) (tstamp 4dd33235-549b-40cc-beda-e6df98a4f6b3))
+  (pad "8" thru_hole oval (at -3.81 -3.81 90) (size 2.616 1.308) (drill 0.8) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.1016) (thermal_bridge_angle 45) (tstamp 4cdb2a69-a437-4280-bc45-395faa67ca2e))
+  (model "${KIPRJMOD}/GaggiaBoard_V3.pretty/3D/DIP-8-N7_W7.62mm.wrl"
+    (offset (xyz -3.8 -3.67 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
+)
