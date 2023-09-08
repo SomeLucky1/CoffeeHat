@@ -35,3 +35,4 @@ Top|Bottom
 ---|---
 ![GaggiaBoard_V3_top](/Hardware/GaggiaBoard_V3/KiCad/Exports/GaggiaBoard_V3_top.png)|![GaggiaBoard_V3_top](/Hardware/GaggiaBoard_V3/KiCad/Exports/GaggiaBoard_V3_bottom.png)
 ![GaggiaBoard_V3_top_pop](/Hardware/GaggiaBoard_V3/KiCad/Exports/GaggiaBoard_V3_top_pop.png)|![GaggiaBoard_V3_bottom](/Hardware/GaggiaBoard_V3/KiCad/Exports/GaggiaBoard_V3_bottom_pop.png)
+![GaggiaBoard_V3_top_pop_r](/Hardware/GaggiaBoard_V3/KiCad/Exports/GaggiaBoard_V3_top_pop_r.png)|![GaggiaBoard_V3_bottom_r](/Hardware/GaggiaBoard_V3/KiCad/Exports/GaggiaBoard_V3_bottom_pop_r.png)
