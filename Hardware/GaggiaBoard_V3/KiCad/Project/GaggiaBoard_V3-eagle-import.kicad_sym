@@ -3801,7 +3801,7 @@
     (property "Value" "1x20 Female Header 2.54mm" (at 0 -27.94 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical" (at 2.54 0 90)
+    (property "Footprint" "GaggiaBoard_V3:1x20_P2.54mm_Female_Vertical" (at 2.54 0 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 0 0 0)

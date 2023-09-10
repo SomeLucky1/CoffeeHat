@@ -35,7 +35,7 @@
   (pad "AC/N" thru_hole circle (at -19.25 -1.5) (size 1.905 1.905) (drill 1.27) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.1016) (tstamp eef1d0bf-6540-46c9-aabd-b4ecd8098efe))
   (model "${KIPRJMOD}/GaggiaBoard_V3.pretty/3D/IRM-10-5-2.wrl"
-    (offset (xyz -23.48 -61.67 0))
+    (offset (xyz -0.13 0 -0.09))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
